@@ -117,4 +117,3 @@ So as mentioned earlier I was constantly getting No Module Error inspite of succ
 
 
 
-# Face-Detection-Mouse-Controller
