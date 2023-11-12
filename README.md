@@ -12,25 +12,11 @@ minimize eye + Mouth open ==> Right Click
 
 move your eye sight to move the mouse
 
-Video Explanation
-
-https://youtu.be/XRjP92ylEOo
-
-
-
-
-
-## Acknowledgements
-
- - [PwSkills](https://experience.pwskills.com/) (For conducting and providing the environment to code)
- 
-
-
 
 
 ## Authors
 
-- [Shreekant V Nandiyawar](https://github.com/Shree7676)
+- [Akash Rathod](https://github.com/ak-akash03)
 
 
 ## Demo
@@ -47,7 +33,7 @@ To deploy this project run
 ```
 
 
-# Hi, I'm Shreekant! 👋
+# Hi, I'm Akash Rathod! 👋
 
 
 ## Lessons Learned
@@ -105,15 +91,3 @@ So as mentioned earlier I was constantly getting No Module Error inspite of succ
 
 - Fifth 
     With the help of Flask connect webpage and the backend
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/105912861/235350719-9dd6dca1-175e-4388-88f8-79c52f67469d.png)
-
-![image](https://user-images.githubusercontent.com/105912861/235350682-4dc3d6b4-34e3-48ec-8ec2-3388dfd08210.png)
-
-![image](https://user-images.githubusercontent.com/105912861/235350763-013776b3-4b2a-4417-b243-cfbf560f422b.png)
-
-![image](https://user-images.githubusercontent.com/105912861/235350572-05eb5290-f3b3-4a63-a81d-6e0c67c73440.png)
-
-
-
