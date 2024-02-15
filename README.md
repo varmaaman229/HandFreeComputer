@@ -1,4 +1,12 @@
 
+
+
+
+![Uploading HandFreeImage.png…]()
+
+
+
+
 # Computer Vision based Virtual Mouse for hands free computer interaction
 
 - Developed a cutting-edge, computer vision-based virtual mouse system, enabling hands-free computer interaction for individuals with limited or no hand mobility, resulting in enhanced accessibility and independence.
