@@ -42,11 +42,11 @@ To deploy this project run
 ```
 
 
-# Hi, I'm Vishnu! 👋
+# Hi, I'm Akash! 👋
 
 
 ## Lessons Learned
-It was my first hackathon. The Problem statement was so interesting that i was stuck to the computer screen straight 24 hrs, No Sleep, No distraction, complete focus...
+It was my Second hackathon. The Problem statement was so interesting that i was stuck to the computer screen straight 24 hrs, No Sleep, No distraction, complete focus...
 
 Key Learnings
 
