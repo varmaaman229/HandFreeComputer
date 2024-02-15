@@ -19,18 +19,10 @@ Video Explanation
 
 
 
-## Acknowledgements
-
-
-
-
 ## Authors
+### Akash Rathod
 
 
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## Deployment
