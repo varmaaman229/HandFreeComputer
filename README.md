@@ -1,8 +1,7 @@
 
+![HandFreeImage](https://github.com/ak-akash03/HandFreeComputer/assets/114861476/72e62b8d-af3e-4aa8-ade6-08212ef8de5c)
 
 
-
-![Uploading HandFreeImage.png…]()
 
 
 
