@@ -1,8 +1,18 @@
 
+![HandFreeImage](https://github.com/ak-akash03/HandFreeComputer/assets/114861476/72e62b8d-af3e-4aa8-ade6-08212ef8de5c)
+
+
+
+
+
+
 # Computer Vision based Virtual Mouse for hands free computer interaction
 
-The proposed project aims to develop a hands-free computer interaction system, specifically a computer vision-based virtual mouse, that can be controlled using head movements. The system is intended to improve accessibility for individuals with limited or no use of their hands, such as those with spinal cord injuries or neuromuscular disorders. The virtual mouse will track the movement of the user's head and convert it into mouse movements on the screen. The project has the potential to enhance user experience in gaming or virtual reality applications where hands-free interaction is desirable. The development of a real-world system based on similar principles brings us one step closer to realising the fictional technology depicted in popular culture. The project requires the development of a robust computer vision algorithm, integration of the virtual mouse system with existing operating systems and software applications, and implementation of a user-friendly interface for configuring and calibrating the system to suit individual user needs. The system has the potential to increase independence and improve the quality of life for individuals with disabilities.
+- Developed a cutting-edge, computer vision-based virtual mouse system, enabling hands-free computer interaction for individuals with limited or no hand mobility, resulting in enhanced accessibility and independence.
 
+- The proposed project aims to develop a hands-free computer interaction system, specifically a computer vision-based virtual mouse, that can be controlled using head movements. The system is intended to improve accessibility for individuals with limited or no use of their hands, such as those with spinal cord injuries or neuromuscular disorders. The virtual mouse will track the movement of the user's head and convert it into mouse movements on the screen. The project has the potential to enhance user experience in gaming or virtual reality applications where hands-free interaction is desirable. The development of a real-world system based on similar principles brings us one step closer to realising the fictional technology depicted in popular culture. The project requires the development of a robust computer vision algorithm, integration of the virtual mouse system with existing operating systems and software applications, and implementation of a user-friendly interface for configuring and calibrating the system to suit individual user needs. The system has the potential to increase independence and improve the quality of life for individuals with disabilities.
+
+-  TECH STACK – HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON
 
 ## Working Actions
 
@@ -16,18 +26,10 @@ Video Explanation
 
 
 
-## Acknowledgements
-
-
-
-
 ## Authors
+### Akash Rathod
 
 
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## Deployment
@@ -39,11 +41,11 @@ To deploy this project run
 ```
 
 
-# Hi, I'm Vishnu! 👋
+# Hi, I'm Akash! 👋
 
 
 ## Lessons Learned
-It was my first hackathon. The Problem statement was so interesting that i was stuck to the computer screen straight 24 hrs, No Sleep, No distraction, complete focus...
+It was my Second hackathon. The Problem statement was so interesting that i was stuck to the computer screen straight 24 hrs, No Sleep, No distraction, complete focus...
 
 Key Learnings
 
