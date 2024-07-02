@@ -1,9 +1,9 @@
 
 
-![01HandFreeImage](https://github.com/ak-akash03/HandFreeComputer/assets/114861476/ab0acc68-ce4c-45d7-a33c-060805d4d5a4)
+![01HandFreeImage](https://github.com/Pro-Vishnu/HandFreeComputer)
 
 
-![img02](https://github.com/ak-akash03/HandFreeComputer/assets/114861476/141d731a-aedc-4227-aef8-368a7bb64e02)
+![img02](https://github.com/Pro-Vishnu/HandFreeComputer)
 
 
 
