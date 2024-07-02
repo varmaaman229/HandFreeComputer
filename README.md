@@ -1,12 +1,3 @@
-
-
-![01HandFreeImage](https://github.com/ak-akash03/HandFreeComputer/assets/114861476/ab0acc68-ce4c-45d7-a33c-060805d4d5a4)
-
-
-![img02](https://github.com/ak-akash03/HandFreeComputer/assets/114861476/141d731a-aedc-4227-aef8-368a7bb64e02)
-
-
-
 # Computer Vision based Virtual Mouse for hands free computer interaction
 
 - Developed a cutting-edge, computer vision-based virtual mouse system, enabling hands-free computer interaction for individuals with limited or no hand mobility, resulting in enhanced accessibility and independence.
@@ -28,7 +19,7 @@ Video Explanation
 
 
 ## Authors
-### Akash Rathod
+### Vishnu Rathod
 
 
 
@@ -42,7 +33,7 @@ To deploy this project run
 ```
 
 
-# Hi, I'm Akash! 👋
+# Hi, I'm Vishnu! 👋
 
 
 ## Lessons Learned
