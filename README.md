@@ -28,7 +28,7 @@ Video Explanation
 
 
 ## Authors
-### Akash Rathod
+### Vishnu Rathod
 
 
 
@@ -42,7 +42,7 @@ To deploy this project run
 ```
 
 
-# Hi, I'm Akash! 👋
+# Hi, I'm Vishnu! 👋
 
 
 ## Lessons Learned
