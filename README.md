@@ -19,7 +19,7 @@ Video Explanation
 
 
 ## Authors
-### Vishnu Rathod
+### Aman Varma 
 
 
 
